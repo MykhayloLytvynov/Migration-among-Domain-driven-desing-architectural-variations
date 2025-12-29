@@ -1,0 +1,30 @@
+C:\XTS\src\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.deps.json
+C:\XTS\src\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\XTS\src\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.pdb
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.AssemblyReference.cache
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfoInputs.cache
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfo.cs
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.CoreCompileInputs.cache
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\XTS\src\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\bin\Debug\netstandard2.0\Common.Infrastructure.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Infrastructure\obj\Debug\netstandard2.0\Common.Infrastructure.pdb

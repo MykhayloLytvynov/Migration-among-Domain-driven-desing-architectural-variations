@@ -1,0 +1,15 @@
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\net8.0\TechnicalStation.Core.Domain.deps.json
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\net8.0\TechnicalStation.Core.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\net8.0\TechnicalStation.Core.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\net8.0\Common.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\net8.0\Common.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.csproj.AssemblyReference.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.AssemblyInfoInputs.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.AssemblyInfo.cs
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.csproj.CoreCompileInputs.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\Technica.B9C67953.Up2Date
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\refint\TechnicalStation.Core.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\TechnicalStation.Core.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\net8.0\ref\TechnicalStation.Core.Domain.dll

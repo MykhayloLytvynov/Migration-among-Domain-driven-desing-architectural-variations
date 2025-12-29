@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TechnicalStation.Core.Application/1.0.0": {
+        "dependencies": {
+          "Common.Application": "1.0.0",
+          "Common.Domain": "1.0.0",
+          "TechnicalStation.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TechnicalStation.Core.Application.dll": {}
+        }
+      },
+      "Common.Application/1.0.0": {
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Common.Application.dll": {}
+        }
+      },
+      "Common.Domain/1.0.0": {
+        "runtime": {
+          "Common.Domain.dll": {}
+        }
+      },
+      "TechnicalStation.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TechnicalStation.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechnicalStation.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechnicalStation.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+C:\XRemoteNotes\release\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\XRemoteNotes\release\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\release\src\Common\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\release\src\Common\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\XRemoteNotes\release\src\RemoteNotes\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.AssemblyReference.cache
+C:\XTS\src\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\XTS\src\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\XTS\src\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.AssemblyReference.cache
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\XTS\src\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\bin\Debug\netstandard2.0\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\Common.Domain\obj\Debug\netstandard2.0\Common.Domain.pdb

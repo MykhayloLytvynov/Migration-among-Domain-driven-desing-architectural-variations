@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TechnicalStation.Core.IntegrationTests
+build_property.ProjectDir = C:\universityPHD\Services и CommandBus\OnlyServices\TechnicalStation\TechnicalStation.Core.IntegrationTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,52 @@
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.deps.json
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.dll
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.pdb
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfo.cs
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CopyComplete
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\Users\misha\source\repos\TechnicalService.Service\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.deps.json
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.pdb
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.AssemblyReference.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfoInputs.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfo.cs
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CoreCompileInputs.cache
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\Technica.B9C67953.Up2Date
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\XTS\src\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CopyComplete
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.deps.json
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\bin\Debug\netcoreapp3.1\Common.Domain.pdb
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.AssemblyReference.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfoInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.AssemblyInfo.cs
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CoreCompileInputs.cache
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.csproj.CopyComplete
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.dll
+C:\1\аспирантура\Работа по теме диссертации\2.02 проект\OnlyServices\TechnicalStation\TechnicalStation.Core.Domain\obj\Debug\netcoreapp3.1\TechnicalStation.Core.Domain.pdb

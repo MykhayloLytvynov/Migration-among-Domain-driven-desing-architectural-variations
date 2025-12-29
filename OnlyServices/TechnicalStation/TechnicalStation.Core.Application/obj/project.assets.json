@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Common.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Common.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Application.dll": {}
+        }
+      },
+      "Common.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Common.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.Domain.dll": {}
+        }
+      },
+      "TechnicalStation.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TechnicalStation.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechnicalStation.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.Application/1.0.0": {
+      "type": "project",
+      "path": "../Common.Application/Common.Application.csproj",
+      "msbuildProject": "../Common.Application/Common.Application.csproj"
+    },
+    "Common.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Common.Domain/Common.Domain.csproj",
+      "msbuildProject": "../Common.Domain/Common.Domain.csproj"
+    },
+    "TechnicalStation.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TechnicalStation.Core.Domain/TechnicalStation.Core.Domain.csproj",
+      "msbuildProject": "../TechnicalStation.Core.Domain/TechnicalStation.Core.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Common.Application >= 1.0.0",
+      "Common.Domain >= 1.0.0",
+      "TechnicalStation.Core.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mykhailo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\TechnicalStation.Core.Application\\TechnicalStation.Core.Application.csproj",
+      "projectName": "TechnicalStation.Core.Application",
+      "projectPath": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\TechnicalStation.Core.Application\\TechnicalStation.Core.Application.csproj",
+      "packagesPath": "C:\\Users\\Mykhailo\\.nuget\\packages\\",
+      "outputPath": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\TechnicalStation.Core.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mykhailo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\Common.Application\\Common.Application.csproj": {
+              "projectPath": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\Common.Application\\Common.Application.csproj"
+            },
+            "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\Common.Domain\\Common.Domain.csproj": {
+              "projectPath": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\Common.Domain\\Common.Domain.csproj"
+            },
+            "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\TechnicalStation.Core.Domain\\TechnicalStation.Core.Domain.csproj": {
+              "projectPath": "C:\\universityPHD\\Services и CommandBus\\OnlyServices\\TechnicalStation\\TechnicalStation.Core.Domain\\TechnicalStation.Core.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
